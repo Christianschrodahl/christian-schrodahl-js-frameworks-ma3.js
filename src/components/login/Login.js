@@ -28,7 +28,7 @@ function Login() {
 
     return (
         <>
-        <Heading title="News" />
+        <Heading title="Login" />
         <Form onSubmit={handleSubmit(onSubmit)}>
             <Form.Group>
                 <Form.Label>Email</Form.Label>
